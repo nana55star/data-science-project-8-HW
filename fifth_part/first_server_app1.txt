@@ -1,0 +1,2 @@
+First server is ip-172-31-8-135
+Second server is ip-172-31-28-95
